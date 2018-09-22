@@ -1,6 +1,6 @@
 # python-string-alignment-ui
 Want to share an old project of mine.
-It is a simple python UI comparing the differences between two input string caused by  substitution, deletion, and insertion, it first calculate the Levenshtein Distance between the strings and then display the differences between them.
+It is a simple python UI comparing the differences between two input string caused by  substitution, deletion, and insertion. It calcuates the Levenshtein Distance between the strings and displays the differences between them. 
 
 ### Requirements:
 1. Python version: Python 2
